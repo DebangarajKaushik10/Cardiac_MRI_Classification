@@ -1,0 +1,6 @@
+numpy
+nibabel
+opencv-python
+torch
+torchvision
+scikit-learn
